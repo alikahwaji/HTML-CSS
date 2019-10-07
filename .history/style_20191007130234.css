@@ -1,0 +1,14 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  background: rgba(0, 0, 0, 0.5)
+}
+
+header div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0 2rem;
+}
